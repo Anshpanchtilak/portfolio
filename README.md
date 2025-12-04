@@ -14,6 +14,8 @@ Interactive Design: Features subtle animations and hover effects (glow-button, c
 
 🛠️ Technology Stack
 
+full stack java developer
+
 Frontend/Styling: HTML, CSS, JavaScript, Tailwind CSS (CDN)
 
 Languages (Demonstrated): C, C++, Java, Python
