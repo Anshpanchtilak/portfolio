@@ -41,6 +41,8 @@ This portfolio is a testament to clean code and modern front-end practices, feat
 | **AI/ML** | Python, Computer Vision, Machine Learning Models |
 | **Core Languages** | C, C++, **Java**, **Python** |
 | **Cloud/DevOps** | Oracle Cloud, Robotic Process Automation (RPA), Power BI |
+| **AI-Powered Sweet Shop Management System** | End-to-end full stack application for managing products, orders, users, and admin operations, enhanced with AI-driven demand prediction and customer behavior insights. | **MERN Stack, REST APIs, JWT Auth, Generative AI, Data Analytics, Git, Cloud Deployment** |
+
 
 ---
 
